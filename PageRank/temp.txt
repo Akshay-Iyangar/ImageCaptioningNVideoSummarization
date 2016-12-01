@@ -1,0 +1,18 @@
+sentence_pairs = [
+    ["I like that bachelor.", "I like that unmarried man.", 0.561],
+    ["John is very nice.", "Is John very nice?", 0.977],
+    ["Red alcoholic drink.", "A bottle of wine.", 0.585],
+    ["Red alcoholic drink.", "Fresh orange juice.", 0.611],
+    ["Red alcoholic drink.", "An English dictionary.", 0.0],
+    ["Red alcoholic drink.", "Fresh apple juice.", 0.420],
+    ["A glass of cider.", "A full cup of apple juice.", 0.678],
+    ["It is a dog.", "That must be your dog.", 0.739],
+    ["It is a dog.", "It is a log.", 0.623],
+    ["It is a dog.", "It is a pig.", 0.790],
+    ["Dogs are animals.", "They are common pets.", 0.738],
+    ["Canis familiaris are animals.", "Dogs are common pets.", 0.362],
+    ["I have a pen.", "Where do you live?", 0.0],
+    ["I have a pen.", "Where is ink?", 0.129],
+    ["I have a hammer.", "Take some nails.", 0.508],
+    ["I have a hammer.", "Take some apples.", 0.121]
+]
